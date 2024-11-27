@@ -1,4 +1,5 @@
 # MGTC28H3
+
 The key objective of our project is to identify the best neighborhoods in Canada for our Pilates venture and to outline how we plan to develop this business. Our presentation comprises four parts. It includes an overview of the Pilates industry, a breakdown of key questions, data analysis using techniques taught in the lesson, and the implementation plan. The global Pilates market has been escalating over the past 10 years, with increasing participation. The industry is expected to achieve a CAGR of 10.60% from 2024 to 2033.
 This growth can be attributed to several factors: increasing awareness of the importance of physical and mental well-being, the stress-relieving and relaxation benefits of Pilates, which help lower rising stress levels, and the growing influence of social media platforms. Fitness influencers promoting Pilates routines create a positive image and drive interest in these practices.Furthermore, Pilates and yoga studios often struggle to differentiate themselves. We believe that Pilates represents a niche market with high growth potential
 
