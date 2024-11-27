@@ -1,0 +1,97 @@
+Postalcode,Avg Income,Population,Borough,Neighbourhood,Latitude,Longitude,Venue,High Education Count,Fitness workforce
+M4N,129000.0,16058.0,Central Toronto,Lawrence Park,43.7280205,-79.3887901,5.0,8035.0,100.0
+M4W,115500.0,15296.0,Downtown Toronto,Rosedale,43.6795626,-79.3775294,15.0,9360.0,65.0
+M4V,106200.0,19273.0,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.6864123,-79.4000493,17.0,10760.0,100.0
+M4T,105100.0,10332.0,Central Toronto,"Moore Park, Summerhill East",43.6895743,-79.3831599,17.0,5880.0,65.0
+M8X,93900.0,10624.0,Etobicoke,"The Kingsway, Montgomery Road, Old Mill North",43.6536536,-79.5069436,2.0,5475.0,80.0
+M4G,87500.0,19598.0,East York,Leaside,43.7090604,-79.3634517,3.0,9715.0,150.0
+M5R,85900.0,26197.0,Central Toronto,"The Annex, North Midtown, Yorkville",43.6727097,-79.4056784,16.0,14920.0,165.0
+M5M,85700.0,25495.0,North York,"Bedford Park, Lawrence Manor East",43.7332825,-79.4197497,4.0,12470.0,205.0
+M4R,85200.0,11909.0,Central Toronto,North Toronto West,43.7153834,-79.4056784,9.0,6335.0,60.0
+M5P,84700.0,19791.0,Central Toronto,Forest Hill North & West,43.6969476,-79.4113072,8.0,10595.0,185.0
+M2L,81400.0,11274.0,North York,"York Mills, Silver Hills",43.7574902,-79.3747141,1.0,5250.0,55.0
+M5N,81200.0,16154.0,Central Toronto,Roselawn,43.7116948,-79.4169356,9.0,7380.0,90.0
+M3B,74600.0,12880.0,North York,Don Mills) Nort,43.7459058,-79.352188,,6135.0,85.0
+M5H,73900.0,3248.0,Downtown Toronto,"Richmond, Adelaide, King",43.6505712,-79.3845675,13.0,2270.0,10.0
+M2P,72700.0,7546.0,North York,York Mills West,43.7527583,-79.4000493,2.0,3810.0,20.0
+M5E,70300.0,11779.0,Downtown Toronto,Berczy Park,43.6447708,-79.3733064,9.0,8005.0,55.0
+M4E,69200.0,25473.0,East Toronto,The Beaches,43.6763574,-79.2930312,2.0,11150.0,255.0
+M6S,65800.0,34029.0,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,4.0,15230.0,195.0
+M6R,64200.0,19349.0,West Toronto,"Parkdale, Roncesvalles",43.6489597,-79.456325,5.0,9135.0,95.0
+M5J,63650.0,16879.0,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.6408157,-79.3817523,6.0,11410.0,135.0
+M5V,62700.0,59912.0,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.6289467,-79.3944199,5.0,39245.0,540.0
+M9A,61050.0,36642.0,Etobicoke,Islington Avenue,43.6678556,-79.5322424,,14425.0,235.0
+M4S,61050.0,30754.0,Central Toronto,Davisville,43.7043244,-79.3887901,10.0,16940.0,210.0
+M5C,60450.0,3149.0,Downtown Toronto,St. James Town,43.6514939,-79.3754179,11.0,1770.0,20.0
+M4L,60050.0,32218.0,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.3155716,3.0,12225.0,260.0
+M6C,59800.0,23997.0,York,Humewood-Cedarvale,43.6937813,-79.4281914,2.0,10060.0,155.0
+M8Z,57800.0,19312.0,Etobicoke,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.6288408,-79.5209994,1.0,6870.0,140.0
+M4K,57700.0,30913.0,East Toronto,"The Danforth West, Riverdale",43.6795571,-79.352188,6.0,12900.0,165.0
+M4M,57650.0,25052.0,East Toronto,Studio District,43.6595255,-79.340923,7.0,10395.0,170.0
+M8Y,56300.0,21986.0,Etobicoke,"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East",43.6362579,-79.4985091,2.0,8435.0,185.0
+M6J,55700.0,32111.0,West Toronto,"Little Portugal, Trinity",43.6479267,-79.4197497,8.0,14095.0,135.0
+M6G,55700.0,30600.0,Downtown Toronto,Christie,43.669542,-79.4225637,6.0,13140.0,165.0
+M5S,55600.0,17074.0,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,20.0,9500.0,55.0
+M4P,54950.0,25057.0,Central Toronto,Davisville North,43.7127511,-79.3901975,11.0,13115.0,220.0
+M9B,54500.0,33236.0,Etobicoke,"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.6509432,-79.5547244,,12120.0,190.0
+M6P,53550.0,39870.0,West Toronto,"High Park, The Junction South",43.6616083,-79.4647633,5.0,18145.0,195.0
+M1N,53000.0,22976.0,Scarborough,"Birch Cliff, Cliffside West",43.692657,-79.2648481,,6805.0,185.0
+M4J,52950.0,35128.0,East York East Toronto,The Danforth East,43.685347,-79.3381065,6.0,12370.0,210.0
+M5A,51550.0,48978.0,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,7.0,21690.0,355.0
+M8V,51550.0,44144.0,Etobicoke,"New Toronto, Mimico South, Humber Bay Shores",43.6056466,-79.5013207,1.0,17070.0,360.0
+M3H,49080.0,38416.0,North York,"Bathurst Manor, Wilson Heights, Downsview North",43.7543283,-79.4422593,1.0,13965.0,255.0
+M8W,49000.0,22381.0,Etobicoke,"Alderwood, Long Branch",43.6024137,-79.5434841,,6660.0,140.0
+M6B,48880.0,28534.0,North York,Glencairn,43.709577,-79.4450726,,8685.0,95.0
+M9P,48680.0,20645.0,Etobicoke,Westmount,43.696319,-79.5322424,,5210.0,110.0
+M5G,48360.0,9751.0,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,18.0,6220.0,25.0
+M1C,47960.0,35642.0,Scarborough,"Rouge Hill, Port Union, Highland Creek",43.7845351,-79.1604971,1.0,11150.0,210.0
+M9C,47720.0,38725.0,Etobicoke,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",43.6435152,-79.5772008,,11905.0,285.0
+M2N,47560.0,75100.0,North York,Willowdale) Sout,43.7701199,-79.4084928,1.0,39350.0,280.0
+M6K,47520.0,42110.0,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.4281914,3.0,17215.0,260.0
+M4Y,47440.0,36319.0,Downtown Toronto,Church and Wellesley,43.6658599,-79.3831599,18.0,20815.0,180.0
+M2K,47200.0,25377.0,North York,Bayview Village,43.7869473,-79.385975,2.0,13120.0,120.0
+M6H,46280.0,43730.0,West Toronto,"Dufferin, Dovercourt Village",43.6690051,-79.4422593,6.0,15515.0,225.0
+M4C,46040.0,46440.0,East York,Woodbine Heights,43.6953439,-79.3183887,2.0,15735.0,250.0
+M4B,45120.0,18612.0,East York,"Parkview Hill, Woodbine Gardens",43.7063972,-79.309937,1.0,4395.0,95.0
+M5B,44800.0,17422.0,Downtown Toronto,"Garden District, Ryerson",43.6571618,-79.3789371,19.0,9925.0,100.0
+M6A,43000.0,22380.0,North York,"Lawrence Manor, Lawrence Heights",43.718518,-79.4647633,1.0,6430.0,75.0
+M1M,42920.0,23258.0,Scarborough,"Cliffside, Cliffcrest, Scarborough Village West",43.716316,-79.2394761,,6700.0,120.0
+M3A,42880.0,34361.0,North York,Parkwoods,43.7532586,-79.3296565,,10585.0,180.0
+M5T,42280.0,17903.0,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,14.0,7275.0,80.0
+M3K,41960.0,7865.0,North York,Downsview) East (CFB Toronto,43.7374732,-79.4647633,1.0,1965.0,20.0
+M4X,41480.0,19896.0,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,19.0,7175.0,75.0
+M2M,41080.0,31915.0,North York,"Willowdale, Newtonbrook",43.789053,-79.4084928,1.0,13715.0,110.0
+M2H,41040.0,23396.0,North York,Hillcrest Village,43.8037622,-79.3634517,1.0,9520.0,105.0
+M6E,40800.0,37684.0,York,Caledonia-Fairbanks,43.6890256,-79.453512,,8710.0,165.0
+M2J,40480.0,61761.0,North York,"Fairview, Henry Farm, Oriole",43.7785175,-79.3465557,,24985.0,205.0
+M3C,40400.0,39616.0,North York,Don Mills) South (Flemingdon Park,43.7258997,-79.340923,,12370.0,140.0
+M9R,40400.0,33783.0,Etobicoke,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.6889054,-79.5547244,,7610.0,155.0
+M4A,39520.0,14589.0,North York,Victoria Village,43.7258823,-79.3155716,,3545.0,55.0
+M6N,38760.0,40252.0,York,"Runnymede, The Junction North",43.6731853,-79.4872619,3.0,7190.0,130.0
+M1E,38720.0,48033.0,Scarborough,"Guildwood, Morningside, West Hill",43.7635726,-79.1887115,1.0,11120.0,175.0
+M2R,38680.0,40581.0,North York,Willowdale) Wes,43.7827364,-79.4422593,1.0,13725.0,190.0
+M9N,38320.0,26059.0,York,Weston,43.706876,-79.5181884,,4015.0,100.0
+M6L,38080.0,20156.0,North York,"North Park, Maple Leaf Park, Upwood Park",43.7137562,-79.4900738,,3120.0,50.0
+M1L,37960.0,35833.0,Scarborough,"Golden Mile, Clairlea, Oakridge",43.7111117,-79.2845772,,9660.0,165.0
+M1R,37720.0,30467.0,Scarborough,"Wexford, Maryvale",43.7500715,-79.2958491,,7100.0,105.0
+M9W,36920.0,40977.0,Etobicoke Northwest,"Clairville, Humberwood, Woodbine Downs, West Humber, Kipling Heights, Rexdale, Elms, Tandridge, Old Rexdale",43.7067483,-79.5940544,,8315.0,155.0
+M6M,36680.0,42148.0,York,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.6911158,-79.4760133,,5825.0,120.0
+M3M,36560.0,24906.0,North York,Downsview) Centra,43.7284964,-79.4956974,,3975.0,95.0
+M1T,36520.0,34607.0,Scarborough,"Clarks Corners, Tam O'Shanter, Sullivan",43.7816375,-79.3043021,,9635.0,125.0
+M1X,36520.0,14810.0,Scarborough,Upper Rouge,43.8361247,-79.2056361,,3145.0,20.0
+M1H,36480.0,23964.0,Scarborough,Cedarbrae,43.773136,-79.2394761,,6895.0,50.0
+M1W,36320.0,47070.0,Scarborough,"Steeles West, L'Amoreaux West",43.7995252,-79.3183887,,13180.0,120.0
+M9M,35960.0,24245.0,North York,"Humberlea, Emery",43.7247659,-79.5322424,,4210.0,75.0
+M1P,35920.0,45170.0,Scarborough,"Dorset Park, Wexford Heights, Scarborough Town Centre",43.7574096,-79.273304,,11585.0,95.0
+M1B,35800.0,65555.0,Scarborough,"Malvern, Rouge",43.8066863,-79.1943534,,14160.0,160.0
+M1S,35720.0,37663.0,Scarborough,Agincourt,43.7942003,-79.2620294,,10320.0,100.0
+M1K,35520.0,48175.0,Scarborough,"Kennedy Park, Ionview, East Birchmount Park",43.7279292,-79.2620294,,10665.0,105.0
+M1J,35360.0,37002.0,Scarborough,Scarborough Village,43.7447342,-79.2394761,,7690.0,40.0
+M3L,34720.0,19263.0,North York,Downsview) Wes,43.7390146,-79.5069436,,2380.0,60.0
+M3J,34560.0,26600.0,North York,"Northwood Park, York University",43.7679803,-79.4872619,1.0,6315.0,100.0
+M9L,34240.0,11737.0,North York,Humber Summit,43.7563033,-79.5659633,,1960.0,35.0
+M1G,33840.0,30894.0,Scarborough,Woburn,43.7709921,-79.2169174,1.0,6770.0,70.0
+M9V,33040.0,53878.0,Etobicoke,"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.7394164,-79.5884369,,9715.0,110.0
+M1V,32920.0,50825.0,Scarborough,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.8152522,-79.2845772,,10700.0,75.0
+M3N,31240.0,40846.0,North York,Downsview) Northwes,43.7616313,-79.5209994,,3855.0,80.0
+M4H,31240.0,18698.0,East York,Thorncliffe Park,43.7053689,-79.3493719,4.0,4280.0,40.0
